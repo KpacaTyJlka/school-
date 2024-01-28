@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Grape+Nuts&family=Pacifico&display=swap');
+
+h1{
+    color: goldenrod;
+    background-color: blanchedalmond;
+    font-size: 60px;
+    font-family: Caveat;
+    text-align: center;
+    border-radius: 16px;
+}
+
+
+h2{
+    color:goldenrod;
+    font-size: 40px;
+    font-family: Caveat;
+    text-align: center;
+
+}
+
+.vip{
+    font-size: 35px;
+    color:goldenrod ;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+h3{
+    font-size: 50px;
+    color:goldenrod ;
+    font-family: 'Caveat';
+}
+
+li a{
+    font-size: 40px ;
+    color:goldenrod ;
+}
+
+li {
+    font-size: 40px ;
+    color: rgb(189, 123, 0);
+}
+
+.person{
+    font-size: 26px;
+    color:goldenrod ;
+}
+
+.pic {
+    text-align: center;  
+}
+
+.pic img {
+    height: 350px;
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+
+footer{
+    font-size: 30px;
+    color:goldenrod;
+    text-align: center;
+    padding: 40px;
+    background-color:blanchedalmond ;
+    border-radius: 16px;
+    border: 9px solid rgb(224, 150, 39);
+    margin: 20px;
+
+}
+
+.divach{
+    border: 8px solid rgb(224, 150, 39);
+    padding: 5px;
+    border-radius: 16px;
+}
+
